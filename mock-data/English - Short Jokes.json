@@ -1,0 +1,20 @@
+[
+  {
+    "id": "{2AFA08D7-B978-4EDD-8466-D98ACB1A617C}",
+    "name": "#1",
+    "author": "Unknown",
+    "content": "Patient: Doctor! You've got to help me! Nobody ever listens to me. No one ever pays any attention to what I have to say.\nDoctor: Next please!",
+    "language": "English",
+    "category": "Short Jokes",
+    "publishDate": "2015-02-12"
+  },
+  {
+    "id": "{B84BD8CB-BEE5-4AE5-B473-E76EB7B8B0B7}",
+    "name": "#2",
+    "author": "Unknown",
+    "content": "Mother: \"Did you enjoy your first day at school?\" \nGirl: \"First day? Do you mean I have to go back tomorrow?\"",
+    "language": "English",
+    "category": "Short Jokes",
+    "publishDate": "2013-12-21"
+  }
+]
